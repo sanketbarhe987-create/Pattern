@@ -1,2 +1,7 @@
 # Pattern
-Pattern
+Pattern 
+
+* * * * * * *
+* * *   * * *
+* *       * *
+*           *
